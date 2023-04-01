@@ -1,0 +1,29 @@
+
+{
+    "timeline": [
+        {
+            "icon": "mdi-web",
+            "date": "March 2023",
+            "place": "Sanger & Eby",
+            "description": "Began work as a Full Stack Web Developer"
+        },
+        {
+            "icon": "mdi-code-json",
+            "date": "Dec. 2022",
+            "place": "Tech Elevator",
+            "description": "Graduated a 14-week Full Stack Coding Bootcamp"
+        },
+        {
+            "icon": "mdi-desktop-classic",
+            "date": "June 2022",
+            "place": "Micro Center",
+            "description": "Became more involved in the Tech Community"
+        },
+        {
+            "icon": "mdi-school-outline",
+            "date": "May 2022",
+            "place": "Ohio State University",
+            "description": "Graduated Cum Laude with a Bachelor of Science in Theoretical Mathematics"
+        }
+    ]
+}
